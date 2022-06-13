@@ -8,9 +8,6 @@
         android:label="Employee Attendance App"
         android:name="${applicationName}"
         android:icon="@mipmap/launcher_icon">
-        
-        <meta-data android:name="com.google.android.geo.API_KEY"
-               android:value="AIzaSyDvQooitF7BbFgb1LMoteDt3s5GhkSGJ8Y"/>
 
         <activity
             android:name=".MainActivity"
