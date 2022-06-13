@@ -1,4 +1,4 @@
-# Location-Based Employee Attendance App Demo
+# Location-Based Employee Attendance Mobile App Demo
 
 This is a flutter project demo of an App that i made for employee attendance in Sultan Agung Islamic University. The goal of this project is to make employee attendance process easier and more mobile. Users only able to attend if their location is inside attendance area. 
 
